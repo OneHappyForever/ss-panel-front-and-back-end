@@ -1,3 +1,5 @@
+Copied from https://github.com/mmmwhy/ss-panel-and-ss-py-mu on 25/11/17
+
 （支持流量计费、按时间计费、支付宝付款）
 
 除去lnmp的安装时间，仅需3分钟即可完成。
